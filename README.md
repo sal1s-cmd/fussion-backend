@@ -1,28 +1,22 @@
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fexamples%2Ftree%2Fmain%2Fpython%2Fflask3&demo-title=Flask%203%20%2B%20Vercel&demo-description=Use%20Flask%203%20on%20Vercel%20with%20Serverless%20Functions%20using%20the%20Python%20Runtime.&demo-url=https%3A%2F%2Fflask3-python-template.vercel.app%2F&demo-image=https://assets.vercel.com/image/upload/v1669994156/random/flask.png)
+# ⚠️ IMPORTANT: READ BEFORE DOING ANYTHING
 
-# Flask + Vercel
+## About the Project
 
-This example shows how to use Flask 3 on Vercel with Serverless Functions using the [Python Runtime](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes/python).
+This repository contains a **leaked backend** for a VR game (a Gorilla Tag clone for a Pico-like project called "Project Fusion").
 
-## Demo
+**The code was NOT written by me.** It was handed to me to fix, half a year ago.
 
-https://flask-python-template.vercel.app/
+## Disclaimer
 
-## How it Works
+I am not the author of this backend.
+It was written by a person I refuse to call a developer.
+I'm just leaking this garbage because there's no point in keeping it a secret. None whatsoever.
 
-This example uses the Web Server Gateway Interface (WSGI) with Flask to enable handling requests on Vercel with Serverless Functions.
+## Why I'm Publishing This
 
-## Running Locally
+The project owner was a **complete piece of shit** who, on top of everything else, didn't know how to do anything — and **his community deserves to see** what a backend looks like when it's written by someone who doesn't know **A SINGLE PROGRAMMING LANGUAGE.**
 
-```bash
-npm i -g vercel
-vercel dev
-```
+## License
 
-Your Flask application is now available at `http://localhost:3000`.
-
-## One-Click Deploy
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fexamples%2Ftree%2Fmain%2Fpython%2Fflask3&demo-title=Flask%203%20%2B%20Vercel&demo-description=Use%20Flask%203%20on%20Vercel%20with%20Serverless%20Functions%20using%20the%20Python%20Runtime.&demo-url=https%3A%2F%2Fflask3-python-template.vercel.app%2F&demo-image=https://assets.vercel.com/image/upload/v1669994156/random/flask.png)
+MIT — do whatever you want. I don't care anymore.
+I claim no copyright over this nightmare.
